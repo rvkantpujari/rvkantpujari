@@ -8,7 +8,7 @@
 <a href="http://ravikantpujari.in">
 <img align="left" alt="Ravi Kant Pujari | Website" width="18px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rvkantpujari/">
+<a href="https://www.linkedin.com/in/ravikantpujari/">
 <img align="left" alt="Ravi Kant Pujari | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/rvkantpujari">
