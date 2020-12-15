@@ -8,8 +8,11 @@
 
 📫 <b>How to reach me:</b> 
 <br />
+<br />
+
 [![Website](https://img.shields.io/website?label=ravikantpujari.in&style=for-the-badge&url=http%3A%2F%2Fravikantpujari.in)](http://ravikantpujari.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rvkantpujari?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frvkantpujari&screen_name=rvkantpujari)
+
 <br />
 <p>
   <a href="https://www.linkedin.com/in/ravikantpujari"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  
